@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 successed man 
 surprise 
+
+Create a new branch is quick
